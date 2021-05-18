@@ -42,8 +42,8 @@ header h1 {
 #grid {
     border: 1px solid rgb(210, 210, 210);
     display: grid;
-    width: 500px;
-    height: 500px;
+    width: 540px;
+    height: 540px;
     grid-template: repeat(16, 1fr) / repeat(16, 1fr);
 }
 
